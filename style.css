@@ -1,0 +1,30 @@
+.container {
+	margin: 20px;
+	border: 1px solid #333;
+	display: flex;
+	flex-direction: row;
+	height: auto;
+	width: 30%;
+	flex-wrap: wrap;
+}
+
+section {
+	height: 100px;
+	width: 100px;
+}
+
+.box1 {
+	background-color: pink;
+}
+
+.box2 {
+	background-color: red;
+}
+
+.box3 {
+	background-color: green;
+}
+
+.box4 {
+	background-color: blue;
+}
